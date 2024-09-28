@@ -1,5 +1,5 @@
 import { HashRouter as Router, Routes, Route } from "react-router-dom";
-import { Index } from "./screens/index";
+import Index from "./screens/index";
 
 function App() {
   return (
